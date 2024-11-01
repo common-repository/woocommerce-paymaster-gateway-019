@@ -1,0 +1,9 @@
+		table.form-table.pm, table.form-table.pm p, table.form-table.pm label, table.form-table.pm h2  {
+			color: #CECECE;
+		}
+		table.form-table.pm input, table.form-table.pm select, table.form-table.pm textarea  {
+			background: #F0F0F0;
+		}
+		table.form-table.pm label[for=woocommerce_paymaster_enabled]  {
+			color: #F00000;
+		}

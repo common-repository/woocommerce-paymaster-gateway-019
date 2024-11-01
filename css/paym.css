@@ -1,0 +1,42 @@
+		.main-navigation {
+			margin-top: 0;
+			text-align: center;
+			height: 103px;
+		}
+		.main-navigation a {
+			color: #fff;
+		}
+		#logo {
+			float: left;
+			background-color: #1D789B;
+			width: 100%;
+			height: 72px;
+		}
+		#logo img {
+			float: left;
+			padding-left: 25px;
+		}
+		.tel {
+			padding: 0 0 0 30px;
+			font-size: 25px;
+			color: #fff;
+			text-decoration: none;
+			background: transparent url("http://info.paymaster.ru/wp-content/themes/paymaster/img/tel.png") 0 0 no-repeat;
+			float: right;
+			margin-top: 20px;
+			margin-right: 30px;
+		}
+		#lk-top a {
+			float: right;
+			width: 193px;
+			height: 38px;
+			color: #ffffff;
+			text-decoration: none;
+			background: transparent url('http://info.paymaster.ru/wp-content/themes/paymaster/img/lk-top.png') 0 0 no-repeat;
+			background-repeat: no-repeat;
+			margin-top: 15px;
+			margin-right: 24px;
+		}
+		.column-order_notes{display:none;}
+		.paym-status {cursor:pointer;}
+		.paym-status:hover {text-decoration: underline;}
